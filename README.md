@@ -4,6 +4,10 @@ _Abstract_
 
 Machine Intelligence, as a domain, has evolved massively over the years and currently is a trending hot-cake, not only because of its ability to do a lot of tedious jobs efficiently but also because of its applicability in many disciplines of applied sciences. Regression is a statistical process in supervised machine learning that aims to develop a mathematical dependence between independent variables, such that the estimation error is minimized. One of the major challenges with Regression Analysis is Overfitting which results in almost negligible loss for each of the training data points, but the error explodes massively for testing data points. Several propositions are evident in the existing literature to address the Overfitting, like the Ridge ($\ell_2$ Norm) and Lasso ($\ell_1$ Norm) Regression. In this research a modified $\ell_{2}$ Norm based Regularization is proposed, with an ellipsoid restrictive region for the choice of parameters with the least residual error. The regression efficiency (to what extent, it counters Overfitting) for the modified $\ell_{2}$ Norm based Regularization is contrasted with that of $\ell_2$, and $\ell_1$ Norm based Regularization following its applicability on a few real-time datasets.
 
+
+
+![https://github.com/Anurag-Dutta/ellipse_regg/blob/main/l_new.jpg](https://github.com/Anurag-Dutta/ellipse_regg/blob/main/l_new.jpg)
+
 _Results_
 
 a) Linear Regression
